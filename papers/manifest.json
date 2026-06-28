@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2606.21228",
+    "slug": "fugu_technical_report",
+    "title": "Sakana Fugu Technical Report",
+    "url": "https://arxiv.org/abs/2606.21228",
+    "pdf": "papers/pdfs/fugu_technical_report_2606.21228.pdf",
+    "text": "papers/text/fugu_technical_report_2606.21228.txt",
+    "pages": 31,
+    "pdf_bytes": 6704188
+  },
+  {
+    "id": "2512.04695",
+    "slug": "trinity_evolved_llm_coordinator",
+    "title": "TRINITY: An Evolved LLM Coordinator",
+    "url": "https://arxiv.org/abs/2512.04695",
+    "pdf": "papers/pdfs/trinity_evolved_llm_coordinator_2512.04695.pdf",
+    "text": "papers/text/trinity_evolved_llm_coordinator_2512.04695.txt",
+    "pages": 30,
+    "pdf_bytes": 11577786
+  },
+  {
+    "id": "2512.04388",
+    "slug": "conductor_natural_language_orchestration",
+    "title": "Learning to Orchestrate Agents in Natural Language with the Conductor",
+    "url": "https://arxiv.org/abs/2512.04388",
+    "pdf": "papers/pdfs/conductor_natural_language_orchestration_2512.04388.pdf",
+    "text": "papers/text/conductor_natural_language_orchestration_2512.04388.txt",
+    "pages": 39,
+    "pdf_bytes": 4132875
+  },
+  {
+    "id": "2602.11685",
+    "slug": "draco_deep_research_benchmark",
+    "title": "DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity",
+    "url": "https://arxiv.org/abs/2602.11685",
+    "pdf": "papers/pdfs/draco_deep_research_benchmark_2602.11685.pdf",
+    "text": "papers/text/draco_deep_research_benchmark_2602.11685.txt",
+    "pages": 38,
+    "pdf_bytes": 1228997
+  },
+  {
+    "id": "2305.05176",
+    "slug": "frugalgpt",
+    "title": "FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance",
+    "url": "https://arxiv.org/abs/2305.05176",
+    "pdf": "papers/pdfs/frugalgpt_2305.05176.pdf",
+    "text": "papers/text/frugalgpt_2305.05176.txt",
+    "pages": 13,
+    "pdf_bytes": 1171365
+  },
+  {
+    "id": "2406.18665",
+    "slug": "routellm",
+    "title": "RouteLLM: Learning to Route LLMs with Preference Data",
+    "url": "https://arxiv.org/abs/2406.18665",
+    "pdf": "papers/pdfs/routellm_2406.18665.pdf",
+    "text": "papers/text/routellm_2406.18665.txt",
+    "pages": 16,
+    "pdf_bytes": 809166
+  },
+  {
+    "id": "2403.12031",
+    "slug": "routerbench",
+    "title": "RouterBench: A Benchmark for Multi-LLM Routing System",
+    "url": "https://arxiv.org/abs/2403.12031",
+    "pdf": "papers/pdfs/routerbench_2403.12031.pdf",
+    "text": "papers/text/routerbench_2403.12031.txt",
+    "pages": 16,
+    "pdf_bytes": 1878517
+  },
+  {
+    "id": "2306.02561",
+    "slug": "llm_blender",
+    "title": "LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion",
+    "url": "https://arxiv.org/abs/2306.02561",
+    "pdf": "papers/pdfs/llm_blender_2306.02561.pdf",
+    "text": "papers/text/llm_blender_2306.02561.txt",
+    "pages": 18,
+    "pdf_bytes": 3046499
+  },
+  {
+    "id": "2406.04692",
+    "slug": "mixture_of_agents",
+    "title": "Mixture-of-Agents Enhances Large Language Model Capabilities",
+    "url": "https://arxiv.org/abs/2406.04692",
+    "pdf": "papers/pdfs/mixture_of_agents_2406.04692.pdf",
+    "text": "papers/text/mixture_of_agents_2406.04692.txt",
+    "pages": 15,
+    "pdf_bytes": 1157463
+  }
+]
