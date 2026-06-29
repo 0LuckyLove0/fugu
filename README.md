@@ -8,6 +8,7 @@ This private research repository contains a deep analysis of multi-model orchest
 - [Paper synthesis](papers/synthesis.md)
 - [Paper manifest](papers/manifest.md)
 - [Paper analyses](papers/analyses/)
+- [Fugu-like orchestrator training guide](fugu_like_training_guide/)
 
 ## Included Materials
 
@@ -15,4 +16,4 @@ This private research repository contains a deep analysis of multi-model orchest
 - Extracted paper text under `papers/text/`
 - Per-paper deep analysis under `papers/analyses/`
 - Checksums under `papers/checksums.sha256`
-
+- Step-by-step Fugu-like training guide under `fugu_like_training_guide/`
