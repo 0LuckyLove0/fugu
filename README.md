@@ -9,6 +9,7 @@ This private research repository contains a deep analysis of multi-model orchest
 - [Paper manifest](papers/manifest.md)
 - [Paper analyses](papers/analyses/)
 - [Fugu-like orchestrator training guide](fugu_like_training_guide/)
+- [Leadership briefing: Conductor, TRINITY, and Fugu](leadership_briefings/conductor_trinity_fugu_leadership_briefing.md)
 
 ## Included Materials
 
@@ -17,3 +18,4 @@ This private research repository contains a deep analysis of multi-model orchest
 - Per-paper deep analysis under `papers/analyses/`
 - Checksums under `papers/checksums.sha256`
 - Step-by-step Fugu-like training guide under `fugu_like_training_guide/`
+- Meeting-ready leadership briefing under `leadership_briefings/`
